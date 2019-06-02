@@ -18,7 +18,7 @@ OS包括应用层和内核层
 
 ![image-20190603043114779](https://github.com/shaojintian/BlueBlood-OS/tree/master/imgs/typora-user-images/image-20190603043114779.png)
 
-内核层由5个子系统组成
+内核层由6个子系统组成
 
 1:memorysys内存管理
 
@@ -29,6 +29,8 @@ OS包括应用层和内核层
 4:filesys 文件系统
 
 5:netsys 网络及驱动
+
+6:boot 启动加载
 
 
 
