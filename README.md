@@ -22,6 +22,16 @@
 
 暂无
 
+### 文件目录说明
+
+BlueBlood-OS-v0.1为主项目文件
+
+ARCHJITECTURE.md 为架构文件
+
+CONTRIBUTING.md为贡献者
+
+
+
 ### 开发的架构 
 
 请阅读**ARCHITECTURE.md** 查阅为该项目的架构。
