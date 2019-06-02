@@ -10,13 +10,13 @@ OS包括应用层和内核层
 
 如下图
 
-![image-20190603041716395](/Users/shaojintian/Library/Application Support/typora-user-images/image-20190603041716395.png)
+![image-20190603041716395](https://github.com/shaojintian/BlueBlood-OS/tree/master/imgs/typora-user-images/image-20190603041716395.png)
 
 下述的文件名均与项目中的文件名严格一致
 
 ## 内核层kernel
 
-![image-20190603043114779](/Users/shaojintian/Library/Application Support/typora-user-images/image-20190603043114779.png)
+![image-20190603043114779](https://github.com/shaojintian/BlueBlood-OS/tree/master/imgs/typora-user-images/image-20190603043114779.png)
 
 内核层由5个子系统组成
 
